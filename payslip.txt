@@ -1,0 +1,3 @@
+[200~When you login to remote server - the shell's log in script is executed (it's located in /home/user/ if you ssh to user@remote, i.e. on given-hostname->/home/ubuntu when ubuntu@given-hostname).
+
+You can check what shell is executed for that user on remote host:

@@ -1,0 +1,8 @@
+top command tells you what is running on your server
+to remove a folder, it is rmdir [folder]
+mkdir to create - rmdir to remove
+check filesystem
+brew whatsapp
+
+Git - creates version/helps in tracking changes
+Git is not the same as GitHub - GitHub is a repository. It makes tools that use Git
